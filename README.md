@@ -32,7 +32,8 @@ print(solution)
 
 ## Output:
 
-<img width="266" height="117" alt="Screenshot 2025-08-21 093443" src="https://github.com/user-attachments/assets/cbb8b384-bc69-481a-a5a1-494d6a5327a7" />
+<img width="663" height="729" alt="Screenshot 2025-08-25 211406" src="https://github.com/user-attachments/assets/f82cb561-eefd-4f82-b0f7-789e65f2ba63" />
+
 
 
 ## Result: 
